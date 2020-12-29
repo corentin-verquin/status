@@ -2,8 +2,10 @@ owner: corentin-verquin
 repo: status
 user-agent: koj-co
 sites: # List of endpoints to track
-  - name: CV
+  - name: corentin-verquin
     url: https://corentin-verquin.fr/
+  - name: ply-reader
+    url: https://demo.corentin-verquin.fr/plyreader/
 assignees: # Users to assign downtime issues (optional)
   - corentin-verquin
 status-website:  
