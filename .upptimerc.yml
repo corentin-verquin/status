@@ -6,3 +6,6 @@ sites: # List of endpoints to track
     url: https://corentin-verquin.fr/
 assignees: # Users to assign downtime issues (optional)
   - corentin-verquin
+status-website:  
+  baseUrl: /status
+  name: Upptime
