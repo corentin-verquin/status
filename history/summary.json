@@ -1,20 +1,20 @@
 [
   {
-    "name": "Corentin Verquin",
+    "name": "CV",
     "url": "https://corentin-verquin.fr/",
     "icon": "https://favicons.githubusercontent.com/corentin-verquin.fr",
-    "slug": "corentin-verquin",
+    "slug": "cv",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1585,
-    "timeDay": 1585,
-    "timeWeek": 1585,
-    "timeMonth": 1585,
-    "timeYear": 1585,
+    "time": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {}
   }
 ]
