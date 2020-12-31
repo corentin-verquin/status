@@ -4,19 +4,19 @@
     "url": "https://corentin-verquin.fr/",
     "icon": "https://favicons.githubusercontent.com/corentin-verquin.fr",
     "slug": "corentin-verquin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 848,
-    "timeWeek": 1210,
-    "timeMonth": 1210,
-    "timeYear": 1210,
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
+    "time": 1099,
+    "timeDay": 694,
+    "timeWeek": 1099,
+    "timeMonth": 1099,
+    "timeYear": 1099,
     "dailyMinutesDown": {
-      "2020-12-31": 0
+      "2020-12-31": 46
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/demo.corentin-verquin.fr",
     "slug": "ply-reader",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.51%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
     "time": 506,
     "timeDay": 505,
     "timeWeek": 506,
     "timeMonth": 506,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2020-12-31": 0
+      "2020-12-31": 46
     }
   }
 ]
