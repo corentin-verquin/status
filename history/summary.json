@@ -4,9 +4,9 @@
     "url": "https://corentin-verquin.fr/",
     "icon": "https://favicons.githubusercontent.com/corentin-verquin.fr",
     "slug": "corentin-verquin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1210,
     "timeMonth": 1210,
     "timeYear": 1210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-31": 0
+    }
   },
   {
     "name": "ply-reader",
     "url": "https://demo.corentin-verquin.fr/plyreader/",
     "icon": "https://favicons.githubusercontent.com/demo.corentin-verquin.fr",
     "slug": "ply-reader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 506,
     "timeMonth": 506,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-31": 0
+    }
   }
 ]
