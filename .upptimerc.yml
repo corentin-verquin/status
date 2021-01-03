@@ -5,7 +5,7 @@ sites: # List of endpoints to track
   - name: corentin-verquin
     url: https://corentin-verquin.fr/
   - name: ply-reader
-    url: https://demo.corentin-verquin.fr/plyreader/
+    url: https://demo-ply.corentin-verquin.fr/
 assignees: # Users to assign downtime issues (optional)
   - corentin-verquin
 status-website:  
