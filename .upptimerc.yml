@@ -6,6 +6,8 @@ sites: # List of endpoints to track
     url: https://corentin-verquin.fr/
   - name: ply-reader
     url: https://demo-ply.corentin-verquin.fr/
+  - name: dockernet
+    url: https://demo-dockernet.corentin-verquin.fr/
 assignees: # Users to assign downtime issues (optional)
   - corentin-verquin
 status-website:  
